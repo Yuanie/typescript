@@ -1,0 +1,11 @@
+{
+  "name": "ts-learning-sort",
+  "version": "1.0.0",
+  "description": "learning ts & sort alrorithm",
+  "main": "test.js",
+  "scripts": {
+    "test": "tsc && node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
